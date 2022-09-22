@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nishithkumar77
-- 👀 I’m interested in Data Scientist
+- 👀 I’m Data Scientist
 - 🌱 I’m currently learning NLP and Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... nsahani99@gmail.com
