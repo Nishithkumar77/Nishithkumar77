@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nishithkumar77
 - 👀 I’m Data Scientist
 - 🌱 I’m currently learning NLP and Deep Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Data Analyst , Data Science, Machine learning , NLP with Software firm and other interseted canidate.
 - 📫 How to reach me ... nsahani99@gmail.com
 
 <!---
